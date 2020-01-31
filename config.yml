@@ -5,4 +5,3 @@ server:
   adminConnectors:
     -   type: http
         port: 9800
-writerName: Yusuf

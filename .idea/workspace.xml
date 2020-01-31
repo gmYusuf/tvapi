@@ -6,7 +6,22 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d46c1d07-4289-45e2-b65c-1fa07c8f78e3" name="Default Changelist" comment="" />
+    <list default="true" id="d46c1d07-4289-45e2-b65c-1fa07c8f78e3" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/artifacts/tvschedule_jar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/artifacts/tvschedule_jar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/tvschedule/conf/TVProgramConfiguration.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tvschedule/conf/TVProgramConfiguration.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/tvschedule/conf/TVProgramConfiguration.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/tvschedule/conf/TVProgramConfiguration.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-com.tvschedule.domain.TVProgramApplicationTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-com.tvschedule.domain.TVProgramApplicationTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-com.tvschedule.domain.TVProgramDBTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-com.tvschedule.domain.TVProgramDBTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-com.tvschedule.domain.TVProgramTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-com.tvschedule.domain.TVProgramTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-com.tvschedule.domain.TVProgramsResourceTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-com.tvschedule.domain.TVProgramsResourceTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/com.tvschedule.domain.TVProgramApplicationTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/com.tvschedule.domain.TVProgramApplicationTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/com.tvschedule.domain.TVProgramTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/com.tvschedule.domain.TVProgramTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/com.tvschedule.domain.TVProgramsResourceTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/com.tvschedule.domain.TVProgramsResourceTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/tvschedule-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/tvschedule-1.0-SNAPSHOT.jar" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,6 +35,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
       <MavenImportingSettings>
@@ -31,17 +49,20 @@
     <option name="delegateBuildToMaven" value="true" />
   </component>
   <component name="ProjectId" id="1WvPci7vAjko86tpekHhY6gazcf" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/src/test/java/com/tvschedule/resources" />
-    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.last.edited" value="Artifacts" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="preferences.keymap" />
@@ -234,11 +255,15 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="137" y="0" width="1092" height="728" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1580474159756">
+    <state x="275" y="23" key="#Project_Structure" timestamp="1580477595982">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="23" key="#Project_Structure/0.0.1366.728@0.0.1366.728" timestamp="1580477595982" />
+    <state x="137" y="0" width="1092" height="728" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1580477955264">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="137" y="0" width="1092" height="728" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1580307124390" />
-    <state x="137" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1580474159756" />
+    <state x="137" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1580477955264" />
     <state x="488" y="80" key="#com.intellij.ide.util.MemberChooser" timestamp="1580449778930">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -265,26 +290,26 @@
     </state>
     <state x="463" y="106" key="FileChooserDialogImpl/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1580307283747" />
     <state x="463" y="106" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1580472114023" />
-    <state width="1323" height="136" key="GridCell.Tab.0.bottom" timestamp="1580472831495">
+    <state width="1323" height="136" key="GridCell.Tab.0.bottom" timestamp="1580479107080">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1323" height="136" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1580395791225" />
-    <state width="1323" height="136" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1580472831495" />
-    <state width="1323" height="136" key="GridCell.Tab.0.center" timestamp="1580472831495">
+    <state width="1323" height="136" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1580479107080" />
+    <state width="1323" height="136" key="GridCell.Tab.0.center" timestamp="1580479107080">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1323" height="136" key="GridCell.Tab.0.center/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1580395791225" />
-    <state width="1323" height="136" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1580472831495" />
-    <state width="1323" height="136" key="GridCell.Tab.0.left" timestamp="1580472831495">
+    <state width="1323" height="136" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1580479107080" />
+    <state width="1323" height="136" key="GridCell.Tab.0.left" timestamp="1580479107080">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1323" height="136" key="GridCell.Tab.0.left/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1580395791225" />
-    <state width="1323" height="136" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1580472831495" />
-    <state width="1323" height="136" key="GridCell.Tab.0.right" timestamp="1580472831495">
+    <state width="1323" height="136" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1580479107080" />
+    <state width="1323" height="136" key="GridCell.Tab.0.right" timestamp="1580479107080">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1323" height="136" key="GridCell.Tab.0.right/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1580395791225" />
-    <state width="1323" height="136" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1580472831495" />
+    <state width="1323" height="136" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1580479107080" />
     <state width="1323" height="223" key="GridCell.Tab.1.bottom" timestamp="1580465316774">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -309,11 +334,11 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="213" y="19" key="Maven.ArtifactSearchDialog/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1580307951045" />
-    <state x="184" y="0" key="SettingsEditor" timestamp="1580472760383">
+    <state x="184" y="0" key="SettingsEditor" timestamp="1580476013801">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="184" y="7" key="SettingsEditor/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1580222630173" />
-    <state x="184" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1580472760383" />
+    <state x="184" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1580476013801" />
     <state x="384" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1580474670829">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
