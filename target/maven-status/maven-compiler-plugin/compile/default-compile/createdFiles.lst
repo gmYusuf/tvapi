@@ -1,0 +1,8 @@
+com\tvschedule\resource\TVProgramsResource.class
+com\tvschedule\conf\TVProgramConfiguration.class
+com\tvschedule\dao\TVProgramDB.class
+com\tvschedule\dao\TVProgramApplicationHealthCheck.class
+com\tvschedule\dao\RetrieveSchedule.class
+com\tvschedule\TVProgramApplication.class
+com\tvschedule\domain\TVProgram.class
+com\tvschedule\dao\TVProgramUtilities.class

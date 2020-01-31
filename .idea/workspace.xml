@@ -1,0 +1,345 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="tvschedule:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d46c1d07-4289-45e2-b65c-1fa07c8f78e3" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit5 Test Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="delegateBuildToMaven" value="true" />
+  </component>
+  <component name="ProjectId" id="1WvPci7vAjko86tpekHhY6gazcf" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/test/java/com/tvschedule/resources" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.tvschedule.domain" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\y00429754\IdeaProjects\tvschedule\src\test\resources" />
+      <recent name="C:\Users\y00429754\IdeaProjects\tvschedule\src\test\java\com\tvschedule\domain" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.tvschedule.domain" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\y00429754\IdeaProjects\tvschedule\src\test\java\com\tvschedule\resources" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.tvschedule.domain.json" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.TVProgramApplication">
+    <configuration name="TVProgramApplication" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.tvschedule.TVProgramApplication" />
+      <module name="tvschedule" />
+      <option name="PROGRAM_PARAMETERS" value="server config.yml" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.tvschedule.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="tvProgramUtilities" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.tvschedule.dao.tvProgramUtilities" />
+      <module name="tvschedule" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.tvschedule.dao.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="All in tvschedule" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="tvschedule" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TVProgramApplicationTest" type="JUnit" factoryName="JUnit" nameIsGenerated="true">
+      <module name="tvschedule" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.tvschedule.domain.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.tvschedule.domain" />
+      <option name="MAIN_CLASS_NAME" value="com.tvschedule.domain.TVProgramApplicationTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TVProgramTest (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="tvschedule" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.tvschedule.domain.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.tvschedule.domain" />
+      <option name="MAIN_CLASS_NAME" value="com.tvschedule.domain.TVProgramTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TVProgramTest" type="JUnit" factoryName="JUnit" nameIsGenerated="true">
+      <module name="tvschedule" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="resource.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="resource" />
+      <option name="MAIN_CLASS_NAME" value="resource.TVProgramTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TVProgramsResourceTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="tvschedule" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.tvschedule.domain.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.tvschedule.domain" />
+      <option name="MAIN_CLASS_NAME" value="com.tvschedule.domain.TVProgramsResourceTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com.tvschedule.domain in tvschedule" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="tvschedule" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.tvschedule.domain.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.tvschedule.domain" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="tvschedule []" type="MavenRunConfiguration" factoryName="Maven" nameIsGenerated="true">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list />
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Application.tvProgramUtilities" />
+      <item itemvalue="Application.TVProgramApplication" />
+      <item itemvalue="JUnit.TVProgramApplicationTest" />
+      <item itemvalue="JUnit.TVProgramTest" />
+      <item itemvalue="JUnit.TVProgramTest (1)" />
+      <item itemvalue="JUnit.TVProgramsResourceTest" />
+      <item itemvalue="JUnit.com.tvschedule.domain in tvschedule" />
+      <item itemvalue="JUnit.All in tvschedule" />
+      <item itemvalue="Maven.tvschedule []" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.All in tvschedule" />
+        <item itemvalue="JUnit.com.tvschedule.domain in tvschedule" />
+        <item itemvalue="JUnit.TVProgramsResourceTest" />
+        <item itemvalue="JUnit.TVProgramTest (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d46c1d07-4289-45e2-b65c-1fa07c8f78e3" name="Default Changelist" comment="" />
+      <created>1580027176800</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580027176800</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="137" y="0" width="1092" height="728" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1580474159756">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="137" y="0" width="1092" height="728" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1580307124390" />
+    <state x="137" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1580474159756" />
+    <state x="488" y="80" key="#com.intellij.ide.util.MemberChooser" timestamp="1580449778930">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="488" y="80" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1580304383230" />
+    <state x="488" y="80" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1580449778930" />
+    <state x="420" y="140" key="#com.intellij.ide.util.PackageChooserDialog" timestamp="1580307924965">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="420" y="140" key="#com.intellij.ide.util.PackageChooserDialog/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1580307924965" />
+    <state x="434" y="148" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1580458466847">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="434" y="148" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1366.728@0.0.1366.728" timestamp="1580458466847" />
+    <state x="479" y="224" width="407" height="289" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1580368231054">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="479" y="224" width="407" height="289" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1580368231054" />
+    <state x="400" y="35" key="#tvProgramApplication" timestamp="1580042845794">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="400" y="35" key="#tvProgramApplication/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1580042845794" />
+    <state x="463" y="106" key="FileChooserDialogImpl" timestamp="1580472114023">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="106" key="FileChooserDialogImpl/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1580307283747" />
+    <state x="463" y="106" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1580472114023" />
+    <state width="1323" height="136" key="GridCell.Tab.0.bottom" timestamp="1580472831495">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="136" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1580395791225" />
+    <state width="1323" height="136" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1580472831495" />
+    <state width="1323" height="136" key="GridCell.Tab.0.center" timestamp="1580472831495">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="136" key="GridCell.Tab.0.center/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1580395791225" />
+    <state width="1323" height="136" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1580472831495" />
+    <state width="1323" height="136" key="GridCell.Tab.0.left" timestamp="1580472831495">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="136" key="GridCell.Tab.0.left/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1580395791225" />
+    <state width="1323" height="136" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1580472831495" />
+    <state width="1323" height="136" key="GridCell.Tab.0.right" timestamp="1580472831495">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="136" key="GridCell.Tab.0.right/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1580395791225" />
+    <state width="1323" height="136" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1580472831495" />
+    <state width="1323" height="223" key="GridCell.Tab.1.bottom" timestamp="1580465316774">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.bottom/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1580392777049" />
+    <state width="1323" height="223" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1580465316774" />
+    <state width="1323" height="223" key="GridCell.Tab.1.center" timestamp="1580465316774">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.center/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1580392777049" />
+    <state width="1323" height="223" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1580465316774" />
+    <state width="1323" height="223" key="GridCell.Tab.1.left" timestamp="1580465316774">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.left/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1580392777049" />
+    <state width="1323" height="223" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1580465316774" />
+    <state width="1323" height="223" key="GridCell.Tab.1.right" timestamp="1580465316774">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.right/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1580392777049" />
+    <state width="1323" height="223" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1580465316774" />
+    <state x="213" y="19" key="Maven.ArtifactSearchDialog" timestamp="1580307951045">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="213" y="19" key="Maven.ArtifactSearchDialog/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1580307951045" />
+    <state x="184" y="0" key="SettingsEditor" timestamp="1580472760383">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="184" y="7" key="SettingsEditor/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1580222630173" />
+    <state x="184" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1580472760383" />
+    <state x="384" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1580474670829">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="384" y="188" key="com.intellij.ide.util.TipDialog/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1580027242653" />
+    <state x="384" y="188" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1580474670829" />
+    <state x="454" y="67" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1580307926244">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="454" y="67" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1580307926244" />
+    <state x="454" y="67" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1366.728@0.0.1366.728" timestamp="1580061155778" />
+    <state x="380" y="0" width="606" height="728" key="find.popup" timestamp="1580472998871">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="380" y="0" width="606" height="728" key="find.popup/0.0.1366.728@0.0.1366.728" timestamp="1580472998871" />
+    <state x="425" y="0" key="refactoring.ChangeSignatureDialog" timestamp="1580210099409">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="425" y="0" key="refactoring.ChangeSignatureDialog/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1580210099409" />
+    <state x="339" y="162" key="run.anything.popup" timestamp="1580456306940">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="339" y="162" key="run.anything.popup/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1580306965767" />
+    <state x="339" y="162" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1580456306940" />
+    <state x="339" y="17" width="672" height="676" key="search.everywhere.popup" timestamp="1580392867019">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="339" y="17" width="672" height="676" key="search.everywhere.popup/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1580392867019" />
+  </component>
+</project>
