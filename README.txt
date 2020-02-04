@@ -10,7 +10,7 @@ Run Command:
 GET    
 	http://localhost:8800/tvprograms
 POST    
-	pust http://localhost:8800/tvprograms
+	push http://localhost:8800/tvprograms
 		json example
 			{
 			    "name": "xxx",
